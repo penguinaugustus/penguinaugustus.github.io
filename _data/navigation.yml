@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://www.overleaf.com/project/63f8c3ed628ae4f093f99017
     
   - title: "Guide"
     url: /markdown/
