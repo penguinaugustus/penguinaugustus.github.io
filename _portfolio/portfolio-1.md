@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Avid but bad climber"
+excerpt: "Beyond academic i like go climbing. It's always a good way to get a break from tensive mental work and fall into a state of mindfulness. I am so honored to join Fudan Climbing Association and serve as President in 2022 Fall. <br/><img src='/images/climbing2.png'>"
 collection: portfolio
 ---
 
