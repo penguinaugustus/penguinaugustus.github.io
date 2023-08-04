@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Fu"
+title                    : "Freddie (Yu) Fu"
 title_separator          : "-"
 name                     : &name "Yu Fu"
 description              : &description "Yu Fu"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yu Fu"
+  name             : "Freddie (Yu) Fu"
   avatar           : "Yuphoto.JPG"
   bio              : "biophysics & soft matter"
   location         : "IL, US"
