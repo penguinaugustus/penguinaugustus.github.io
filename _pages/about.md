@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to <mark> Freddie (Yu) Fu </mark>'s academic page. I am an undergraduate student at University of Illinois Urbana-Champaign double majoring in [Physics](https://physics.illinois.edu/) and [Mathematics](https://math.illinois.edu/), and minoring in [Computer Science](https://cs.illinois.edu/). I was advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. 
+Welcome to **<span style="color: blue;">Freddie (Yu) Fu</span>**'s academic page. I am an undergraduate student at University of Illinois Urbana-Champaign double majoring in [Physics](https://physics.illinois.edu/) and [Mathematics](https://math.illinois.edu/), and minoring in [Computer Science](https://cs.illinois.edu/). I was advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. 
 Before that, I was an undergraduate student at Fudan University(2020-2022), majoring in Physics and Computer Science.
 
 
