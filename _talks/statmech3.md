@@ -1,7 +1,7 @@
 ---
-title: "Note on Thermodynamics and Statistical Physics 3: Classical system -  Ideal gas"
+title: "Chapter 3: Classical system - Ideal gas"
 collection: talks
-type: "Notes"
+type: "Note on Thermodynamics and Statistical Physics"
 permalink: /talks/statmech3
 venue: "Fudan University"
 date: 2022-04-28

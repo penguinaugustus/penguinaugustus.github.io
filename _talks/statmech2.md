@@ -1,7 +1,7 @@
 ---
-title: "Note on Thermodynamics and Statistical Physics 2: Ensemble Theory"
+title: "Chapter 2: Ensemble Theory"
 collection: talks
-type: "Notes"
+type: "Note on Thermodynamics and Statistical Physics "
 permalink: /talks/statmech2
 venue: "Fudan University"
 date: 2022-04-20

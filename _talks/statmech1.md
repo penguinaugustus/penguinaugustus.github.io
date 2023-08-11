@@ -1,7 +1,7 @@
 ---
-title: "Note on Thermodynamics and Statistical Physics 1: Fundamental concepts"
+title: "Chapter 1: Fundamental concepts"
 collection: talks
-type: "Notes"
+type: "Note on Thermodynamics and Statistical Physics"
 permalink: /talks/statmech1
 venue: "Fudan University"
 date: 2022-04-08

@@ -1,7 +1,7 @@
 ---
-title: "Note on Thermodynamics and Statistical Physics 3: classical system - complicated gas model"
+title: "Chapter 4: classical system - complicated gas model"
 collection: talks
-type: "Notes"
+type: "Note on Thermodynamics and Statistical Physics"
 permalink: /talks/statmech2
 venue: "Fudan University"
 date: 2022-05-09
