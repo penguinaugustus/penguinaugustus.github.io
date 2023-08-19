@@ -2,6 +2,7 @@
 title: "Discussion on two kinds of discrete time crystal"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
+
 excerpt: 'The spontaneous breaking of time-translation symmetry in periodically driven system leads to
 discrete time crystal (DTC). The discrete time crystal can be divided into two cases, quantum time
 crystal and classical time crystal. In this work, we explore the existence and properties of these two
@@ -12,7 +13,7 @@ in 1D and 2D system. We obtain that these two kinds of discrete time crystal bel
 '
 date: 2022-05-10
 venue: 'Honor project of thermodynamics and statistical mechanics'
-paperurl: '/files//time_crystal.pdf'
+paperurl: '/files/time_crystal.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 The spontaneous breaking of time-translation symmetry in periodically driven system leads to
