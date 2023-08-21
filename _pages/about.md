@@ -22,4 +22,4 @@ After poking around in many subfield of physics, my research interests now conve
 
 News
 ------
-* 2023/07/01: I am glad to announce that i have become a climbing master LOL 
+* 2023/08/21: I am glad to announce that my poster abstract for the poster session at the Microbial Multiverse Symposium is accepted. Looking forward to see you guys in at the Beckman Institute in September!
