@@ -15,11 +15,17 @@ Research Interest
 ======
 After poking around in many subfield of physics, my research interests now converged into soft condense matter.
 
-
-
+Education
+======
+* Bachelor of Science, **University of Illinois Urbana Champaign**, Jan. 2023 – Present
+  * Major in **Physics and Mathematics**
+  * Minor in Computer Science
+* Undergraduate student, **Fudan University (Shanghai, China)**, Sep. 2020 - Dec. 2022
+  * Major in **Physics and Computer Science**
+* High School Diploma, No. 2 High School Attached to East China Normal University (Shanghai, China), Sep. 2017 – Jul. 2020
 
 
 
 News
 ------
-* 2023/08/21: I am glad to announce that my poster abstract for the poster session at the Microbial Multiverse Symposium is accepted. Looking forward to see you guys in at the Beckman Institute in September!
+* 2023/08/21: I am glad to announce that my abstract for the poster session at the Microbial Multiverse Symposium is accepted. Looking forward to see you guys in at the Beckman Institute in September!
