@@ -22,10 +22,10 @@ Education
   * Minor in **Computer Science**
 * Undergraduate student, **Fudan University** (Shanghai, China), Sep. 2020 - Dec. 2022
   * Major in **Physics and Computer Science**
-* High School Diploma, **NO.2 High School Of East China Normal University** (Shanghai, China), Sep. 2017 – Jul. 2020
+* High School Diploma, **NO.2 High School of East China Normal University** (Shanghai, China), Sep. 2017 – Jul. 2020
 
 
 
 News
 ------
-* 2023/08/21: I am glad to announce that my abstract for the poster session at the Microbial Multiverse Symposium is accepted. Looking forward to see you guys in at the Beckman Institute in September!
+* 2023/08/21: I am glad to announce that my abstract for the poster session at the Microbial Multiverse Symposium is accepted. Looking forward to seeing you guys in at the Beckman Institute in September!
