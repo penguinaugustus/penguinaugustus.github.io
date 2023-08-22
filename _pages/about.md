@@ -17,12 +17,12 @@ After poking around in many subfield of physics, my research interests now conve
 
 Education
 ======
-* Bachelor of Science, **University of Illinois Urbana Champaign**, Jan. 2023 – Present
+* Bachelor of Science, **University of Illinois Urbana Champaign** （IL, US）, Jan. 2023 – Present
   * Major in **Physics and Mathematics**
   * Minor in **Computer Science**
-* Undergraduate student, **Fudan University** (Shanghai, China), Sep. 2020 - Dec. 2022
+* Undergraduate student, **Fudan University** (SH, CN), Sep. 2020 - Dec. 2022
   * Major in **Physics and Computer Science**
-* High School Diploma, **NO.2 High School of East China Normal University** (Shanghai, China), Sep. 2017 – Jul. 2020
+* High School Diploma, **NO.2 High School of East China Normal University** (SH, CN), Sep. 2017 – Jul. 2020
 
 
 
