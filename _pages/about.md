@@ -13,9 +13,8 @@ Before that, I was an undergraduate student at Fudan University(2020-2022), maj
 
 Research Interest
 ======
-
-$\mathscr{WHILE}$ $\mathscr{YOU}$ $\mathscr{ARE}$ swimming and not sinking you should aim for rough water
----- Steven Weinberg
+> While you are swimming and not sinking you should aim for rough water
+> ---- Steven Weinberg
 
 After poking around in many subfield of physics, my research interests now converged into soft condense matter. I am currently advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. If you are interested in my research experience, please go to "Research" to learn more about my projects.
 
