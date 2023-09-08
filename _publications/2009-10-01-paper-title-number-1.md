@@ -2,7 +2,7 @@
 title: "Psychophysical and Computational Signatures of Visual Working Memory Deficits in Adolescents with Anxiety Disorder"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is with Prof.Ruyuan Zhang. It's my first research experience in college. I contribute to this work by doing data analysis and visualization.'
+excerpt: 'This paper is with Prof.Ruyuan Zhang. I contribute to this work by doing data analysis and visualization.'
 date: 2022-10-01
 venue: 'In preprint'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4356621'
