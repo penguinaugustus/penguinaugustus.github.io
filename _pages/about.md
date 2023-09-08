@@ -17,7 +17,7 @@ Research Interest
 
 > ---- Steven Weinberg
 
-After poking around in many subfield of physics, my research interests now converged into soft condense matter. I am currently advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. If you are interested in my research experience, please go to "Research" to learn more about my projects.
+After poking around a bit in many subfield of physics(i.e. high energy Phenomenology, astrophysics, biological physics, and soft condense matter), my research interests now converged into soft condense matter. I am currently advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. If you are interested in my research experience, please go to "Research" to learn more about my projects.
 
 
 Education
