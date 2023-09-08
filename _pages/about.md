@@ -33,4 +33,4 @@ Education
 
 News
 ------
-* 2023/08/21: I am glad to announce that my abstract for the poster session at the Microbial Multiverse Symposium is accepted. Looking forward to seeing you guys in at the Beckman Institute in September!
+* 2023/08/21: I will give a poster representation at the Microbial Multiverse Symposium. Looking forward to seeing you guys in at the Beckman Institute in September!
