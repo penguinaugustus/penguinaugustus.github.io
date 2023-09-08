@@ -2,7 +2,7 @@
 title: "Sparse identification of bacterial transcriptional regulation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
-excerpt: 'This work is still on-going with Prof.Ido Golding. Interim results are presented in Microbial Multiverse Symposium. You can download the poster below.'
+excerpt: 'This work is still on-going with Prof.Ido Golding. Interim results are presented in Microbial Multiverse Symposium. You can download the poster below or click the title to see more.'
 date: 2023-09-15
 venue: 'Microbial Multiverse Symposium'
 paperurl: '/files/poster4microbsymposium.pdf'
