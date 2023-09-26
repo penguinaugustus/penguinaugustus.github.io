@@ -1,5 +1,5 @@
 ---
-title: "A big fan of middle earth"
+title: "A big fan of Middle-earth"
 excerpt: "I am currently enthralled by Middle-earth: The Lord of the Rings, The Hobbit, The Silmarillion... I like every one of them.  <br/><img src='/images/Sketch_Map_of_Beleriand.svg.png'>"
 collection: portfolio
 ---
