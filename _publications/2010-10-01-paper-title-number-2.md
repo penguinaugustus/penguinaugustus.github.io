@@ -1,8 +1,8 @@
 ---
-title: "Top-Quark Effective Field Theory"
+title: "Top Quark Effective Field Theory"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This is the term paper of a graduate level particle physics with Prof.Jiayin Gu. This essay is mainly based on Cen Zhang and Scott Willenbrock’s work in 2010. It employs effective field theory to dimension six to describe process in top-quark physics such as top-quark decay and top-quark production. Effective field theory is believed to be simpler and better at describing BSM phenomena compaired with traditional vertex function approach.'
+excerpt: 'This term paper was completed as part of graduate-level particle physics coursework under the supervision of Prof. Jiayin Gu. The essay primarily builds upon the work of Cen Zhang and Scott Willenbrock from 2010. It utilizes effective field theory up to dimension six to describe processes in top-quark physics, such as top-quark decay and top-quark production. Compared to the traditional vertex function approach, effective field theory is considered to be more straightforward and more apt for describing Beyond the Standard Model (BSM) phenomena.'
 date: 2023-01-05
 venue: 'Term paper of particle physics'
 paperurl: '/files/Top-quark effective field theory.pdf'
