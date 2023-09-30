@@ -16,7 +16,7 @@ Research Interest
 > While you are swimming and not sinking you should aim for rough water<br>
 > --- Steven Weinberg
 
-After poking around in many subfields of physics(i.e., high energy Phenomenology, astrophysics, biological physics, and soft condensed matter) and a field outside of physics(cognitive neural science), my research interests have now converged on using quantitative methods to simulate biological systems and understand biological problems. I am currently advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. If you are interested in my research experience, please visit the "Projects" section to learn more about my academic odyssey during undergraduate studies.
+After poking around in many subfields of physics(i.e., high energy Phenomenology, astrophysics, biological physics, and soft condensed matter) and a field outside of physics(cognitive neural science), my research interests have now converged on biological physics and soft condensed matter. I am interested in both theory and computation. I am currently advised by Prof. [Sergei Maslov](https://maslov.bioengineering.illinois.edu/), Prof. [Antonia Statt](https://statt.matse.illinois.edu/), and Prof. [Ido Golding](https://bacteriophysics.web.illinois.edu/) at UIUC. If you are interested in my research experience, please visit the "Projects" section to learn more about my academic odyssey during undergraduate studies.
 
 
 Education
