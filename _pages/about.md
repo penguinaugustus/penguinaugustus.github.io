@@ -33,4 +33,4 @@ Education
 News
 ------
 * 2023/12/22: I will present [Sparse Identification of Bacterial Transcriptional Regulation](http://www.freddieyufu.org/publication/2009-10-01-paper-title-number-2) at APS March Meeting 2024. See you in Minneapolis, MN!
-* 2023/08/21: I will give a poster presentation at the Microbial Multiverse Symposium. 
+* 2023/08/21: I will present [Sparse Identification of Bacterial Transcriptional Regulation](http://www.freddieyufu.org/publication/2009-10-01-paper-title-number-2) at the Microbial Multiverse Symposium. 
